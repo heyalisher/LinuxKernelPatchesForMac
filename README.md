@@ -13,6 +13,7 @@ Graphics
 Wi-Fi
 Bluetooth
 Features
+
 Apple Keyboard: Full support for the unique key layout and functions.
 Touchpad: Smooth and responsive multi-touch gestures.
 Touch Bar: Full integration and functionality.
